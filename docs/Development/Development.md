@@ -1,0 +1,1 @@
+- [Gitoxide](https://github.com/Byron/gitoxide) - gitoxide is an implementation of git written in [[Rust]] for developing future-proof applications which strive for correctness and performance while providing a pleasant and unsurprising developer experience.

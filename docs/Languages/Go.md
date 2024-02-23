@@ -1,0 +1,3 @@
+- No built in set
+- No built in map and reduce for arrays
+- No built in max for ints
