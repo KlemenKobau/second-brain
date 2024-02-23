@@ -4,8 +4,6 @@ site_author: "Klemen Kobau"
 docs_dir: docs/
 repo_name: "KlemenKobau/second-brain"
 repo_url: "https://github.com/KlemenKobau/second-brain"
-nav:
-  - Home: index.md
 theme:
   name: "material"
   palette:
