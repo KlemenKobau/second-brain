@@ -1,9 +1,11 @@
-# Namespaces
+# Linux
+
+## Namespaces
 
 - [Separation Anxiety: A Tutorial for Isolating Your System with Linux Namespaces](https://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces)
 - [Man namespaces](https://man7.org/linux/man-pages/man7/namespaces.7.html) - Link or run `man namespaces`.
 
-## Namespace types
+### Namespace types
 
 - IPC
 - Network
